@@ -1,0 +1,7 @@
+*.fruitstand {
+    background-image: url("../assets/fruitstand.jpeg");
+    height: 500px;
+    width: 100%;
+    background-size: 100% 100%;
+    position: relative;
+}
